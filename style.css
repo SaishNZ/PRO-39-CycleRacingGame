@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+@font-face {
+  font-family: titleFont;
+  src: url("hemi\ head\ bd\ it.ttf");
+}
+
+h1{font-family: titleFont; font-size: xx-large;}
